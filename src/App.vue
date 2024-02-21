@@ -2,6 +2,7 @@
   <div class="container">
     <img src="./assets/logo.svg" alt="Logo VUE" width="125" height="125" />
     <small><h1>Hola mundo desde vuejs 3</h1></small>
+    <h2>Creado por CHRISTIAN RENE CARDENAS SANCHEZ</h2>
     <hr />
 
     <h2>Contador: {{ contador }}</h2>
